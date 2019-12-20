@@ -12,5 +12,5 @@ The Full Stack web application includes:
 5. Serverless: Azure Functions, SignalR
 6. CI/CD: Azure DevOps
 
-### Web App Srtucure
+## Web Appication Functionality
 The purpose of the app itself is to provide an interface for viewing conferences and to allow registered users to sign up to attend sessions at each conference.  All sessions are free to attend, but have limited amounts of seats available.
